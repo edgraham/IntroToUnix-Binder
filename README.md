@@ -4,4 +4,3 @@ forked from [here](https://github.com/AstrobioMike/binder-unix-intro) and based 
 
 Thank you to the awesome [binder](https://mybinder.org/) team.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AstrobioMike/binder-bash-intro/master?urlpath=lab)
