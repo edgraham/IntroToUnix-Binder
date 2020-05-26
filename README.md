@@ -4,4 +4,4 @@ forked from [here](https://github.com/AstrobioMike/binder-unix-intro) and based 
 
 Thank you to the awesome [binder](https://mybinder.org/) team.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edgraham/IntroToUnix-Binder.git/v1?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/edgraham-introtounix-binder-5eq16a1x/lab)
