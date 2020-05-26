@@ -1,0 +1,3 @@
+seqmagick convert --include-from-file newclean_ids group12_contigs.fasta bashresult1.fasta
+seqmagick convert --include-from-file newclean_ids group20_contigs.fasta bashresult2.fasta
+seqmagick info *.fasta
